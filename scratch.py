@@ -1,4 +1,4 @@
-dog_breeds_available_for_adoption = [ 'french_bulldogs', 'German', 'Dalmation', 'poodle', 'collie']
+'''dog_breeds_available_for_adoption = [ 'french_bulldogs', 'German', 'Dalmation', 'poodle', 'collie']
 dog_breed_I_want = 'dalmation'
 
 for dog_breed in dog_breeds_available_for_adoption:
@@ -18,5 +18,36 @@ for game in board_games:
 for game in sport_games:
     print(game)
 
+# dhjdhfvjkhfvh
+
+def I_LOVE_MY_DOGO():
+   print('THATS RIGHT I LOVE MY DOGo')
+
+I_LOVE_MY_DOGO()
 
 
+def math_problemo(numbers):
+   print(numbers*3 + 2)
+
+
+
+math_problemo(1)
+math_problemo(2)
+math_problemo(3)
+math_problemo(4)'''
+
+
+
+
+
+
+
+
+
+
+def math_problem(number, X, Y):
+   print(number*X + Y)
+   
+
+math_problem(5, 2, 3)
+math_problem(1, 6, 22)
